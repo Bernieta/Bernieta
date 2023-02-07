@@ -6,8 +6,9 @@ A passionate backend developer from Colombia. with a taste for problem solving, 
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
 * [twitter](https://twitter.com/Juan_Code21)
 * [facebook](https://www.facebook.com/kamilo.arrieta.9)
+* [email](arrietacamilo530@gmail.com)
 
-## Linraris and tools
+## Languages and tools
 My tools to create backend are :technologist:.
 
 <img src="./img/html5.png" width="40" height="40" alt="javascript"/> <img src="./img/css.png" width="40" height="40" alt="css"/>
