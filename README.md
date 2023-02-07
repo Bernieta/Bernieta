@@ -1,41 +1,22 @@
-<h1 align="center">Hi 👋, my name is Juan Camilo Arrieta</h1>
+# Hi :wave:, I'm Juan Camilo
 
-<p align="left">A passionate backend developer from Colombia. with a taste for problem solving, learning, algorithms and coffee</p>
+A passionate backend developer from Colombia. with a taste for problem solving, learning, algorithms and coffee :coffee: .
 
-**<h3 align="left">Contact me</h3>**
+## Contact me
+* [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
+* [twitter](https://twitter.com/Juan_Code21)
+* [facebook](https://www.facebook.com/kamilo.arrieta.9)
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="30"><img>
-    </a>
-    <a href="https://www.facebook.com/kamilo.arrieta.9" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40" height="30"/>
-    </a>
-    <a href="https://twitter.com/Juan_Code21" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="30"/>
-    </a>
-</p>
+## Linraris and tools
+My tools to create backend are :technologist:.
 
-**<h3 align="left">Languages and Tools</h3>**
-
-<p align="left">
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"><img>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-</p>
-
+<img src="./img/html5.png" width="40" height="40" alt="javascript"/>
+<img src="./img/css.png" width="40" height="40" alt="css"/>
+<img src="./img/typescript.png" width="40" height="40" alt="typescript"/>
+<img src="./img/js.png" width="40" height="40" alt="javascript"/>
+<img src="./img/nodejs.png" width="40" height="40" alt="nodejs"/>
+<img src="https://cdn.freebiesupply.com/logos/thumbs/1x/npm-logo.png" width="40" height="40" alt="npm"/>
+<img src="./img/expressjs.png" width="40" height="40" alt="express"/>
+<img src="./img/logo-mysql.png" width="40" height="40" alt="mysql"/>
+<img src="./img/typeorm-logo.png" width="40" height="40" alt="typeorm"/>
+<img src="./img/git.png" width="40" height="40" alt="git"/>
