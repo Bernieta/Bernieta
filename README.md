@@ -6,7 +6,7 @@ A passionate backend developer from Colombia. with a taste for problem solving, 
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
 * [twitter](https://twitter.com/Juan_Code21)
 * [facebook](https://www.facebook.com/kamilo.arrieta.9)
-* [email](https://mail.google.com/mail/u/0/?ogbl#inbox)
+* [arrietacamilo530@gmail.com](#)
 
 ## Languages and tools
 My tools to create backend are :technologist:.
