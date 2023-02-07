@@ -2,6 +2,10 @@
 
 A passionate backend developer from Colombia :colombia: . with a taste for problem solving, learning, algorithms and coffee :coffee: .
 
+<div align="center">
+<img align="center" src="https://st3.depositphotos.com/3126965/17336/v/450/depositphotos_173365774-stock-illustration-young-programmer-coding-a-new.jpg" width="100%" height="" alt="javascript"/>
+</div>
+
 ### Contact me
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
 * [twitter](https://twitter.com/Juan_Code21)
