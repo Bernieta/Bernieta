@@ -9,7 +9,7 @@ A passionate backend developer from Colombia. with a taste for problem solving, 
 * [arrietacamilo530@gmail.com](#)
 
 ## Languages and tools
-My tools to create backend are :technologist:.
+My tools to create software are :technologist:.
 
 <img src="./img/html5.png" width="40" height="40" alt="javascript"/> <img src="./img/css.png" width="40" height="40" alt="css"/>
 <img src="./img/typescript.png" width="40" height="40" alt="typescript"/>
