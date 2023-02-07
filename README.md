@@ -10,8 +10,7 @@ A passionate backend developer from Colombia. with a taste for problem solving, 
 ## Linraris and tools
 My tools to create backend are :technologist:.
 
-<img src="./img/html5.png" width="40" height="40" alt="javascript"/>
-<img src="./img/css.png" width="40" height="40" alt="css"/>
+<img src="./img/html5.png" width="40" height="40" alt="javascript"/> <img src="./img/css.png" width="40" height="40" alt="css"/>
 <img src="./img/typescript.png" width="40" height="40" alt="typescript"/>
 <img src="./img/js.png" width="40" height="40" alt="javascript"/>
 <img src="./img/nodejs.png" width="40" height="40" alt="nodejs"/>
