@@ -3,7 +3,7 @@
 A passionate backend developer from Colombia :colombia: . with a taste for problem solving, learning, algorithms and coffee :coffee: .
 
 <div align="center">
-<img align="center" src="https://st3.depositphotos.com/3126965/17336/v/450/depositphotos_173365774-stock-illustration-young-programmer-coding-a-new.jpg" width="100%" height="" alt="javascript"/>
+<img align="center" src="https://st3.depositphotos.com/6064568/13770/v/450/depositphotos_137702486-stock-illustration-developer-working-at-computer-programmer.jpg" width="100%" height="" alt="javascript"/>
 </div>
 
 ### Contact me
