@@ -1,14 +1,14 @@
-# Hi :wave:, I'm Juan Camilo
+## Hi :wave:, I'm Juan Camilo
 
 A passionate backend developer from Colombia :colombia: . with a taste for problem solving, learning, algorithms and coffee :coffee: .
 
-## Contact me
+### Contact me
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
 * [twitter](https://twitter.com/Juan_Code21)
 * [facebook](https://www.facebook.com/kamilo.arrieta.9)
 * [arrietacamilo530@gmail.com](#)
 
-## Languages and tools
+### Languages and tools
 My tools to create software are :technologist:.
 
 <img src="./img/html5.png" width="40" height="40" alt="javascript"/> <img src="./img/css.png" width="40" height="40" alt="css"/>
