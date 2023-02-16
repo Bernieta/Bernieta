@@ -19,8 +19,10 @@ My tools to create software are :technologist:.
 <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/npm-logo.png" width="40" height="40" alt="npm"/>
 <img src="./img/expressjs.png" width="40" height="40" alt="express"/>
 <img src="./img/logo-mysql.png" width="40" height="40" alt="mysql"/>
+<img src="./img/postgresql.png" width="40" height="40" alt="postgresql"/>
 <img src="./img/typeorm-logo.png" width="40" height="40" alt="typeorm"/>
 <img src="./img/git.png" width="40" height="40" alt="git"/>
-<img src="./img/vscode.png" width="40" height="40" alt="git"/>
-<img src="./img/webstorm.png" width="40" height="40" alt="git"/>
-<img src="./img/intellij.png" width="40" height="40" alt="git"/>
+<img src="./img/vscode.png" width="40" height="40" alt="vscode"/>
+<img src="./img/webstorm.png" width="40" height="40" alt="webstorm"/>
+<img src="./img/intellij.png" width="40" height="40" alt="intellij"/>
+<img src="./img/linux.png" width="40" height="40" alt="linux"/>
