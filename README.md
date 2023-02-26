@@ -4,7 +4,6 @@ A passionate backend developer from Colombia :colombia: . with a taste for probl
 
 ### Contact me
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
-* [facebook](https://www.facebook.com/kamilo.arrieta.9)
 * [arrietacamilo530@gmail.com](#)
 
 ### Languages and tools
