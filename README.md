@@ -1,4 +1,4 @@
-## Hola :wave:, Soy Juan Camilo
+## Hi :wave:, Soy Juan Camilo
 
 A passionate backend developer from Colombia :colombia: . With taste for problem solving, learning, algorithms and coffee :coffee: .
 
