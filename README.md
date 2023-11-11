@@ -1,6 +1,6 @@
-## Hi :wave:, Soy Juan Camilo
+## Hi :wave:, I'm Juan Camilo
 
-A passionate backend developer from Colombia :colombia: . With taste for problem solving, learning, algorithms and coffee :coffee: .
+A passionate FullStack developer from Colombia :colombia: . With taste for problem solving, learning, algorithms and coffee :coffee: .
 
 ### Contact me
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
