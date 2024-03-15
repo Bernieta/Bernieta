@@ -4,7 +4,7 @@ A passionate FullStack developer from Colombia :colombia: . With taste for probl
 
 ### Contact me
 * [LinkedIn](https://www.linkedin.com/in/juan-camilo-arrieta-bernal-b05766165/?originalSubdomain=co)
-* [arrietacamilo530@gmail.com](#)
+* [arrietacamilo530@gmail.com](mailto:arrietacamilo530@gmail.com)
 
 ### Languages and tools
 My tools for creating software are :technologist:.
