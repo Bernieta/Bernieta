@@ -9,8 +9,7 @@ A passionate FullStack developer from Colombia :colombia: . With taste for probl
 ### Languages and tools
 My tools for creating software are :technologist:.
 
-<img src="./assets/nodejs.svg" width="40" height="40" alt="nodejs"/> 
-<img src="./assets/angular.svg" width="40" height="40" alt="angular"/>
+<img src="./assets/nodejs.svg" width="40" height="40" alt="nodejs"/> <img src="./assets/angular.svg" width="40" height="40" alt="angular"/>
 <img src="./assets/expressjs.svg" width="40" height="40" alt="express"/>
 <img src="./assets/nestjs.svg" width="40" height="40" alt="nest"/>
 <img src="./assets/typescript.svg" width="40" height="40" alt="ts"/>
