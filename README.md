@@ -3,7 +3,7 @@
 A passionate Software Developer from Colombia :colombia: . With taste for problem solving, learning, algorithms and coffee :coffee: .
 
 ### Contact me
-* [LinkedIn](https://www.linkedin.com/in/juancarrietabernal21/)
+* [LinkedIn](https://www.linkedin.com/in/juancarrietabernal/)
 * [arrietacamilo530@gmail.com](mailto:arrietacamilo530@gmail.com)
 
 ### Languages and tools
