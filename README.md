@@ -20,6 +20,7 @@ My tools for creating software are :technologist:.
 <img src="./assets/angular.svg" width="40" height="40" alt="angular"/>
 <img src="./assets/postgresql.svg" width="40" height="40" alt="pg"/>
 <img src="./assets/mysql.svg" width="40" height="40" alt="ms"/>
+<img src="./assets/oracle.svg" width="40" height="40" alt="ms"/>
 <img src="./assets/linux.svg" width="40" height="40" alt="linux"/>
 <img src="./assets/terminal.svg" width="40" height="40" alt="terminal"/>
 <img src="./assets/git.svg" width="40" height="40" alt="git"/>
